@@ -4,7 +4,6 @@
 # DATE    :  Sep 2020
 ##########################################################
 /aedc/etc/work/aedc/SCC/aedc_SCC_functions
-
 export UN_BIN=/bin
 export SCC_BIN=/aedc/etc/work/aedc/SCC/bin
 export SYB_DIR=/usr/local/sybase/sybase1002/bin

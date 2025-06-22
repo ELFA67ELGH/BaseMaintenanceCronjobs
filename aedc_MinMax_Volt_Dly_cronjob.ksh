@@ -1,7 +1,6 @@
 #!/bin/ksh
 # PURPOSE : to save  Daily AVG value for outgoing & incoming SS
 # GROUP   : Alex. SCC IS
-# AUTHOR  :  Alaa Nagy , Abeer M. Elsayed ( SCC SW )
 # DATE    : 26 Sep 2011
 ##########################################################
 . /aedc/etc/work/aedc/SCC/aedc_SCC_functions

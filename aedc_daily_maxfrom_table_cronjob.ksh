@@ -5,7 +5,6 @@
 # and save it in /home/sis/REPORTS/DAILY_MAX_VALUE with file name by date
 # PURPOSE : to save data of account in  SCCacc_HMAX_in_SS_AMP.dat
 # GROUP   : IS
-# AUTHOR  : Alaa Nagy , Abeer Elsayed ( SCC S/W )
 # DATE    : 11 june 2003 
 ##########################################################
 echo "starting aedc_daily_maxfrom_table_crontab.ksh"

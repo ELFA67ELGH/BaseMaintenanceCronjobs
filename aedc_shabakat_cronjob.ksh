@@ -1,8 +1,6 @@
 #!/bin/ksh
 # PURPOSE : to Daily accumilate HAVGaccs for each shabakat accounts
 #		according to T0008_ai.C0008_threshold & iutddb..TSCC13_shabakat
-# Senior   : Alaa Nagy
-# AUTHOR  :  Eman Aly
 # DATE    :  Sep 2020
 ##########################################################
 /aedc/etc/work/aedc/SCC/aedc_SCC_functions
